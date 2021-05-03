@@ -24,7 +24,3 @@ Ce qui a été réalisé dans le projet du jour :
 Les étapes non réalisées :
 2.8. Commenter un potin
 
-Les gems requises (cf. Gemfile)
-Vous trouverez dans le fichier Gemfile la liste des gems requises pour lancer l'application ($ bundle install):
-
-1- gem 'sinatra'
